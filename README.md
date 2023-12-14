@@ -1,0 +1,2 @@
+# MagicBoot
+Golang IOC Framework
